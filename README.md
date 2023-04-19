@@ -5,8 +5,8 @@ ImageJ Macros and CellProfiler Pipelines to make everyone's lives easier!
 The files are named according to the what step of the quantification process they have automated and the comments in the macro code give a description of the block's function. There is a seperate folder for all the files to be downloaded for the modular ROI marking tool.
 
 ## Requirements for the Tool
-* CellProfiler: program can be downloaded [here]([url](https://cellprofiler.org/releases))
-* Fiji (Fiji is Just ImageJ): program can be downloaded [here]([url](https://imagej.net/downloads)) 
+* CellProfiler: program can be downloaded [here](https://cellprofiler.org/releases)
+* Fiji (Fiji is Just ImageJ): program can be downloaded [here](https://imagej.net/downloads) 
 * The folder 'Modular ROI marking' will contain files which have to be downloaded
 
 ## Step-by-step Instructions for the Tool
